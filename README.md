@@ -17,4 +17,5 @@
 
 3、mutidata_3：部分握手信号，脉冲响应。
 ![image](https://user-images.githubusercontent.com/72872077/194084639-f82e607d-d023-4de5-86a1-54ebc52351c1.png)
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/88919488-e3ae-4e68-937a-06d2e91d908e/Untitled.png)
+![image](https://user-images.githubusercontent.com/72872077/194084861-1e84e895-c941-4a8a-8773-45c59f164c31.png)
+
